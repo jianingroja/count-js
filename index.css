@@ -1,0 +1,15 @@
+#result {
+  text-align: center;
+  color: steelblue;
+  font-size: 100px;
+  font-weight: bold;
+}
+p {
+  color: steelblue;
+}
+div {
+  text-align: center;
+}
+button {
+  display: inline-block;
+}
